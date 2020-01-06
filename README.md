@@ -1,2 +1,1 @@
-# MATH371-Winter2020-JupyterNotebooks
- 
+# MATH371-Winter2020 Jupyter Notebooks
